@@ -1,0 +1,133 @@
+
+/* numero 1 */
+
+/* #container{
+    position: fixed;
+}
+
+#rouge{
+    
+}
+
+#vert{
+    position: relative;
+    float: right;
+    bottom: 200px;
+    
+}
+
+#bleu{
+    position: relative;
+    bottom: 200px;
+    left: 200px
+} */
+
+/* position :absolute|relative|fixed;
+• float: left|right
+• z-index: XXX (une valeur numérique)
+• top|right|bottom|left: XXpx */
+
+/* numero 2 */
+
+/* #container{
+    position: fixed;
+}
+
+#rouge{
+    position: relative;
+    top: 400px;
+    left: 400px;
+}
+
+#vert{
+    position: relative;
+    float: right;
+    top: 300px;
+}
+
+#bleu{
+    position: relative;
+    bottom: 200px;
+    left: 550px;
+    top: 350px;
+} */
+
+/* numero 4 */
+
+/* #container{
+    position: fixed;
+}
+
+#rouge{
+    position: relative;
+    left: 200px;
+    top: 400px;
+}
+
+#vert{
+    position: relative;
+    left: 250px;
+    top: 100px;
+}
+
+#bleu{
+    position: relative;
+    left: 275px;
+    bottom: 50px;
+} */
+
+/* numero 5 */
+
+/* #container{
+    position: fixed;
+}
+
+#rouge{
+    position: relative;
+    z-index: 3;
+    left: 350px;
+    top: 350px;
+}
+
+#vert{
+    position: relative;
+    z-index: 2;
+    left: 300px;
+    top: 100px;
+}
+
+#bleu{
+    position: relative;
+    z-index: 1;
+    left: 280px;
+    bottom: 20px;
+} */
+
+/* numero 5 */
+
+#container{
+    position: fixed;
+}
+
+#rouge{
+    position: relative;
+    z-index: 3;
+    left: 200px;
+    top: 355px;
+    rotate: -50deg;
+}
+
+#vert{
+    position: relative;
+    z-index: 2;
+    left: 450px;
+    top: 200px;
+}
+
+#bleu{
+    position: relative;
+    z-index: 1;
+    rotate: -50deg;
+    left: 180px;
+    top: 50px;
+}
